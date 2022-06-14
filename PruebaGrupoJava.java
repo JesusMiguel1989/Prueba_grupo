@@ -16,5 +16,7 @@ public class PruebaGrupoJava {
     for(int i=0; i<repetic; i++){
       System.out.printf("%d. %d\n",i+1, num);
     }
+    System.out.println("");
+    
   }
 }
