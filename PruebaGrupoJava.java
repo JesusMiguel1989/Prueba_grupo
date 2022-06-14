@@ -10,7 +10,7 @@ public class PruebaGrupoJava {
     
     System.out.print("Escribe un numero entero: ");
     num = sc.nextInt();
-    System.out.print("Â¿Cuantas veces deseas que se imprima?: ");
+    System.out.print("¿Cuantas veces deseas que se imprima?: ");
     repetic = sc.nextInt();
     
     for(int i=0; i<repetic; i++){
