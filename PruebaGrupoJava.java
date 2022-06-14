@@ -22,5 +22,7 @@ public class PruebaGrupoJava {
           System.out.println("es la ronda impar");
       }
     }
+    System.out.println("");
+    
   }
 }
