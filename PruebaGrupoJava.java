@@ -10,6 +10,8 @@ public class PruebaGrupoJava {
     
     System.out.print("Escribe un numero entero: ");
     num = sc.nextInt();
+    num=(int)Math.pow(num, 2);
+    System.out.println("su cuadrado es "+num);
     System.out.print("¿Cuantas veces deseas que se imprima?: ");
     repetic = sc.nextInt();
     
